@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+## Demo App
+https://drive.google.com/file/d/1cOljeF4BALkEyLujZoB6tO1V1zpUH9lr/view?usp=drivesdk
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Table of Contents
+- [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Features](#features)
+  - [Screenshots](#screenshots)
+  - [Getting Started](#getting-started)
+    - [Prerequisites](#prerequisites)
+    - [Installation](#installation)
 
-## Available Scripts
+## About
 
-In the project directory, you can run:
+Explore and experience traditional instruments of Vietnam from the three regions of North, Central and South Vietnam with the Viet Instruments application. The app empowers users to access detailed information, high-quality imagery, and audio samples, offering a rich exploration of these cultural treasures
 
-### `npm start`
+## Features
+- Login
+- Sing-Up
+- Missions
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Screenshots
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<p float='left'>
+<img src="images/home.png" width="45%" alt='screen1'>
+<img src="images/search.png" width="45%" alt='screen1'>
+<img src="images/interestingThings.png" width="45%" alt='screen1'>
+<img src="images/audio.png" width="45%" alt='screen1'>
+</p>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+## Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Prerequisites
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Node.Js: https://nodejs.org/en
+- Expo: https://docs.expo.dev/get-started/installation/
+- Yarn: https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Installation
 
-### `npm run eject`
+- Clone the repository to your local machine
+- Install dependencies using npm or yarn
+- Run the app using `yarn start` or another suitable command
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+```bash
+git clone https://github.com/NectLevel29/TogetherWeServe.git
+cd TogetherWeServe
+yarn
+yarn start
