@@ -1,20 +1,22 @@
-## Demo App
-https://drive.google.com/file/d/1cOljeF4BALkEyLujZoB6tO1V1zpUH9lr/view?usp=drivesdk
+## Website
+https://volunteer-connect.netlify.app/contact
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
   - [About](#about)
-  - [Features](#features)
-  - [Screenshots](#screenshots)
+  <!-- - [Features](#features)
+  - [Screenshots](#screenshots) -->
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
 
 ## About
 
-Explore and experience traditional instruments of Vietnam from the three regions of North, Central and South Vietnam with the Viet Instruments application. The app empowers users to access detailed information, high-quality imagery, and audio samples, offering a rich exploration of these cultural treasures
+Welcome to VolunteerConnect
 
-## Features
+We believe that volunteering has the power to change lives and communities. VolunteerConnect was created to connect people who want to help with exciting volunteer opportunities. Join now to make a difference and hope with us!
+
+<!-- ## Features
 - Login
 - Sing-Up
 - Missions
@@ -26,7 +28,7 @@ Explore and experience traditional instruments of Vietnam from the three regions
 <img src="images/search.png" width="45%" alt='screen1'>
 <img src="images/interestingThings.png" width="45%" alt='screen1'>
 <img src="images/audio.png" width="45%" alt='screen1'>
-</p>
+</p> -->
 
 
 
@@ -45,7 +47,7 @@ Explore and experience traditional instruments of Vietnam from the three regions
 - Run the app using `yarn start` or another suitable command
 
 ```bash
-git clone https://github.com/NectLevel29/TogetherWeServe.git
-cd TogetherWeServe
+git clone https://github.com/hienpc060199/VolunteerConnect.git
+cd VolunteerConnect
 yarn
 yarn start
