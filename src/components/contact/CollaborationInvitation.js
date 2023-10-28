@@ -84,7 +84,7 @@ const CollaborationInvitation = () => {
             </div>
           </div>
           <div className="ci--contacts">
-            <div className="ci--contact_email">greenenv@gmail.com</div>
+            <div className="ci--contact_email">KindnessCnnect@gmail.com</div>
             <div className="ci--contact_call">(+84) 912 345 678</div>
           </div>
         </div>

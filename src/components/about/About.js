@@ -25,7 +25,7 @@ const About = () => {
       </div>
       <div className="about--text_container">
         <div className="about--what">
-          <div className="about--headline">Chiến lược của Green Env</div>
+          <div className="about--headline">Chiến lược của Kindness Connect</div>
           <div className="about--text">
           Lan tỏa được ý nghĩa của sự yêu thương:giúp mọi người có thể nhận ra lòng trắc ẩn ở sâu bên trong con người mình.Điều quan trọng nhất chính là mọi người nhận ra rằng giúp đỡ người khác là một việc tốt.
           </div>

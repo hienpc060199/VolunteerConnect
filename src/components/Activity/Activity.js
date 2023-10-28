@@ -31,9 +31,9 @@ const Activity = () => {
                     <div className = "frame62">
                         <div className = "frame61">
                             <div className = "phongtrao">
-                            Tình nguyện dọn rác
+                            Mang yêu thương đến mọi người
                             </div>
-                            <div className = "nangcao">Nhóm bạn trẻ gen Z tình nguyện dọn rác</div>
+                            <div className = "nangcao">Nhóm bạn trẻ genZ tình nguyện vì cộng đồng</div>
                         </div>
 
                         <div className = "donrac">

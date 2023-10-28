@@ -94,10 +94,10 @@ const Main = () => {
           </h3>
 
           <div className="main--last">
-            <div className="main--greenenv">(c) Green Env Viet Nam</div>
+            <div className="main--greenenv">(c) Kindness Connect Viet Nam</div>
 
             <div className="main--middle">
-              <div className="main--mail">Greenenv@gmail.com</div>
+              <div className="main--mail">Kindnessconnect@gmail.com</div>
 
               <div className="main--number">(+84) 912 345 678</div>
             </div>
